@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
-using namespace std;
 #define CONFIG_NAME "read_config/config.txt"
 
 void parseFile(const char  * filePath)
